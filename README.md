@@ -21,7 +21,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/md-abdullah-al-maruf/" target="blank"><img align="center" src="./icons/linkedin.png" alt="md-abdullah-al-maruf" height="60" width="" /></a>
 <a href="https://twitter.com/maruf1121" target="blank"><img align="center" src="./icons/twitter.png" alt="mk1121" height="60" width="" /></a>
-<a href="https://fb.com/maruf.5555" target="blank"><img align="center" src="./icons/facebook.png" alt="maruf.5555" height="60" width="" /></a>
 </p>
 
 <h2 align="left">🏆 Hacktoberfest - 2022 | Open source contribution</h2>
