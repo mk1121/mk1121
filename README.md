@@ -4,7 +4,7 @@
   (<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>)
     I am Md. Abdullah Al Maruf
 </h1>
- <h4>Front End Developer</h4>
+ <h4>Full Stack Developer & Passion with Penetration Testing</h4>
 </div>
 
 ---
