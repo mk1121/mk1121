@@ -47,6 +47,3 @@
 <h2 align='left'>🎁 Contributions</h2>
 <p align='center'><img align="center" src="https://streak-stats.demolab.com/?user=mk1121" alt="mk1121" /></p>
 
-<p align="center">
-<img align="center" src='https://metrics.lecoq.io/mk1121'/>
-</p>
