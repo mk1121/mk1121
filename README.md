@@ -12,7 +12,7 @@
 ### :man_technologist: About Me :
 
 - :telescope: I’m currently open for employment opportunites
-- Exploring Front-End technologies
+- Exploring Full Stack Developer & Passion with Penetration Testing
 - learning new skills and sharpening old ones
 
 ---
