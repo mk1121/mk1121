@@ -94,10 +94,19 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Profile Summary
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mk1121&theme=tokyonight&no-frame=true&column=6&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mk1121&theme=tokyonight" alt="Profile Details" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mk1121&theme=tokyonight" alt="Repos Per Language" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mk1121&theme=tokyonight" alt="Most Commit Language" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mk1121&theme=tokyonight" alt="Stats" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mk1121&theme=tokyonight&utcOffset=6" alt="Productive Time" />
 </div>
 
 ---
