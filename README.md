@@ -33,6 +33,7 @@
 - 🔭 &nbsp; Full Stack Developer passionate about building impactful web applications
 - 🛡️ &nbsp; Exploring **Penetration Testing** & Cybersecurity
 - 🌱 &nbsp; Currently levelling up with **Next.js**, **TypeScript** & **Docker**
+- 🔄 &nbsp; Building production **CI/CD pipelines** with **GitHub Actions** & **Docker**
 - 💼 &nbsp; Open to exciting **employment opportunities**
 - ⚡ &nbsp; Fun fact: I debug with `console.log` and I'm not ashamed!
 
@@ -42,9 +43,44 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**students-enrolment**](https://github.com/mk1121/students-enrolment) | 🎓 Production-ready student enrollment system with full CI/CD pipeline & Docker | MERN, Docker, GitHub Actions |
 | [**Remainder**](https://github.com/mk1121/Remainder) | A productivity reminder application | React, Node.js, MongoDB |
 | [**apex-react-integration**](https://github.com/mk1121/apex-react-integration) | Integrating Oracle APEX with React frontend | React, Oracle APEX, REST API |
 | [**mk1121**](https://github.com/mk1121/mk1121) | GitHub Profile README | Markdown, GitHub Actions |
+
+---
+
+## 🌟 Featured Project — Students Enrollment System
+
+<div align="center">
+
+[![CI/CD Pipeline](https://github.com/mk1121/students-enrolment/actions/workflows/ci.yml/badge.svg)](https://github.com/mk1121/students-enrolment/actions/workflows/ci.yml)
+[![Deploy Production](https://github.com/mk1121/students-enrolment/actions/workflows/deploy-production.yml/badge.svg)](https://github.com/mk1121/students-enrolment/actions/workflows/deploy-production.yml)
+[![Deploy Staging](https://github.com/mk1121/students-enrolment/actions/workflows/deploy-staging.yml/badge.svg)](https://github.com/mk1121/students-enrolment/actions/workflows/deploy-staging.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/)
+
+</div>
+
+**🔗 [Live Demo](https://mk1121.github.io/students-enrolment/) &nbsp;·&nbsp; [Repository](https://github.com/mk1121/students-enrolment)**
+
+A production-ready, full-stack **Students Online Enrollment Management System** built with the MERN stack, featuring a complete CI/CD pipeline and DevOps infrastructure.
+
+#### ⚙️ CI/CD & DevOps Highlights
+
+| Pipeline | Description |
+|----------|-------------|
+| 🔄 **CI/CD Pipeline** | Automated testing, linting & build checks on every push/PR |
+| 🚀 **Deploy Staging** | Auto-deploys `develop` branch → GitHub Pages staging environment |
+| 🏭 **Deploy Production** | Auto-deploys `main` branch → GitHub Pages + Render backend |
+| 🐳 **Docker** | Multi-stage `Dockerfile` + `docker-compose` for dev & production |
+| 🌐 **Nginx** | Reverse proxy config for production container routing |
+| 🔒 **Branch Protection** | Enforced PR rules — only `develop` → `main` merges allowed |
+| 🧪 **Test Suite** | 120 backend tests across 7 suites with Jest coverage reports |
+
+#### 🛠️ Tech Used
+
+`React` `Node.js` `Express.js` `MongoDB Atlas` `JWT` `Stripe` `SSLCommerz` `Docker` `GitHub Actions` `Render` `GitHub Pages`
 
 ---
 
@@ -73,6 +109,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
